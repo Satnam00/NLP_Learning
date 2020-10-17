@@ -17,7 +17,8 @@ Any NLP task which involves automatically understanding text and acts based on i
 No algorithm can 100% identify all the named entities correctly
 
 ## Three approaches
-Basic NLTK algorithm
-with word segmentation
-with sentence segmentation
-Stanford NLP NER
+### Basic NLTK algorithm
+#### with word segmentation
+#### with sentence segmentation
+### Stanford NLP NER
+### Using Spacy
